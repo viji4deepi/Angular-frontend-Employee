@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "test",
+      "lastName": "passed",
+      "email": "test@gmail.com",
+      "mobile": "1234567890",
+      "salary": "89999"
+    },
+    {
+      "id": 5,
+      "firstName": "ram",
+      "lastName": "shyam",
+      "email": "ram@123.com",
+      "mobile": "8765347654",
+      "salary": "56000"
+    },
+    {
+      "id": 6,
+      "firstName": "Radhe",
+      "lastName": "Krishna",
+      "email": "radhe@gmail.com",
+      "mobile": "9876512345",
+      "salary": "89089"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "god",
+      "email": "god@123.com",
+      "password": "abcdefg",
+      "mobile": 1234567890,
+      "id": 1
+    },
+    {
+      "fullname": "Apple Tree",
+      "email": "apple@gmail.com",
+      "password": "apple1232",
+      "mobile": 9876512345,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
